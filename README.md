@@ -1,5 +1,5 @@
 # Conversor de Moedas 💱
-#### Bem-vindo(a) ao Conversor de Moedas, um projeto desenvolvido como parte do desafio de lógica do curso Desenvolvimento Pessoal G8 - ONE.]
+#### Bem-vindo(a) ao Conversor de Moedas, um projeto desenvolvido como parte do desafio de lógica do curso Desenvolvimento Pessoal G8 - ONE.
 
 ## 📌 Objetivo:
 É um conversor de moedas criado para que haja interação via console, com conversão em tempo real por API pública garantindo uma ótima conversão de moedas para as 8 opções de conversão disponível.
